@@ -1,4 +1,4 @@
-
+[
   {
     "name": "example1",
     "details": "a qr code",
@@ -7,4 +7,15 @@
     "tag": "test",
     "type": "test",
     "action": "delete"
+  },
+  
+  {
+    "name": "example2",
+    "details": "a qr code",
+    "time": "19/6/19",
+    "number": "30",
+    "tag": "test",
+    "type": "test",
+    "action": "delete"
   }
+]
